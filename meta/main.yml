@@ -1,0 +1,24 @@
+galaxy_info:
+  role_name: nvm
+  author: Brian Hartsock
+  description: Install NVM for the current user.
+
+  license: MIT
+
+  min_ansible_version: 2.4
+
+  platforms:
+    - name: MacOSX
+      versions:
+      - all
+
+  galaxy_tags:
+    - homebrew
+    - osx
+    - mac
+    - development
+    - packaging
+    - node
+    - nvm
+
+dependencies: []

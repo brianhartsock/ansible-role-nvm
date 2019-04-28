@@ -1,0 +1,6 @@
+---
+- name: Checkout NVM
+  git:
+    dest: "{{ nvm_install_directory }}"
+    repo: https://github.com/nvm-sh/nvm.git
+    version: "{{ nvm_install_directory }}"
