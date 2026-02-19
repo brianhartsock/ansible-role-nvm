@@ -1,5 +1,7 @@
 galaxy_info:
   role_name: nvm
+  namespace: brianhartsock
+  deprecated: true
   author: Brian Hartsock
   description: Install NVM for the current user.
 

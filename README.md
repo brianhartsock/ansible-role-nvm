@@ -1,4 +1,8 @@
-Ansible Role brianhartsock.nvm
+**DEPRECATED: This role is no longer maintained. Please use [nvm's install script](https://github.com/nvm-sh/nvm#installing-and-updating) directly instead.**
+
+---
+
+Ansible Role: nvm
 =========
 
 Install NVM for the user running Ansible. It's expected NVM is loaded into your shell profile independently of this role.
