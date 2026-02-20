@@ -3,7 +3,7 @@ galaxy_info:
   namespace: brianhartsock
   deprecated: true
   author: Brian Hartsock
-  description: Install NVM for the current user.
+  description: DEPRECATED - Install NVM for the current user.
 
   license: MIT
 
